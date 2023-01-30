@@ -1,4 +1,4 @@
-var CHANNEL_ACCESS_TOKEN = 'gDWVH9gTmZ5USRTmRNPO0cYK0wZfqb85ZNYnh3Xl7HKr097PmgM6Mcfxk/cd3brbjfVliGtaXQX0VeMb9RcUuvhDm0GuJLGfvUatz1++g3ksTkwxCFQimTnDdM9xgT2r4hncGCsIRp41897ST2tAAQdB04t89/1O/w1cDnyilFU='; 
+var CHANNEL_ACCESS_TOKEN = '自分のアクセストークン'; 
 var line_endpoint = 'https://api.line.me/v2/bot/message/reply';
 
 //ポストで送られてくるので、ポストデータ取得
